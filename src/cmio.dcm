@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISL91107IR
+D High Efficiency Buck-Boost Regulator with 4.1A Switches 
+F http://docs-europe.electrocomponents.com/webdocs/150c/0900766b8150c40b.pdf
+$ENDCMP
+#
+$CMP Micro_SD_Card_TFP09_2_12B
+D Micro SD Card Socket - TFP09-2-12B
+K connector SD microsd
+F http://images.100y.com.tw/pdf_file/10-TFP09-2-12B.pdf
+$ENDCMP
+#
+#End Doc Library
