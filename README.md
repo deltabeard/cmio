@@ -1,4 +1,7 @@
 # cmio
+
+Note that this circuit currently has critical issues that are yet to be resolved. Do not use in its current state please.
+
 Custom Raspberry Pi Compute Module IO Board. Designed for low cost production,
 minimal set of components, and compatibility with the Raspberry Pi GPIO header.
 
