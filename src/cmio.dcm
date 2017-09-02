@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP6015
+F http://docs-europe.electrocomponents.com/webdocs/104c/0900766b8104c621.pdf
+$ENDCMP
+#
 $CMP ISL91107IR
 D High Efficiency Buck-Boost Regulator with 4.1A Switches 
 F http://docs-europe.electrocomponents.com/webdocs/150c/0900766b8150c40b.pdf
