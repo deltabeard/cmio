@@ -539,7 +539,7 @@ U 1 1 59275879
 P 1600 6800
 F 0 "C2" H 1610 6870 50  0000 L CNN
 F 1 "1uF" H 1610 6720 50  0000 L CNN
-F 2 "Capacitors_SMD:C_1206_HandSoldering" H 1600 6800 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1600 6800 50  0001 C CNN
 F 3 "" H 1600 6800 50  0001 C CNN
 	1    1600 6800
 	1    0    0    -1  
@@ -561,7 +561,7 @@ U 1 1 59275B68
 P 3000 6750
 F 0 "C8" H 3010 6820 50  0000 L CNN
 F 1 "1uF" H 3010 6670 50  0000 L CNN
-F 2 "Capacitors_SMD:C_1206_HandSoldering" H 3000 6750 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3000 6750 50  0001 C CNN
 F 3 "" H 3000 6750 50  0001 C CNN
 	1    3000 6750
 	1    0    0    -1  
@@ -605,7 +605,7 @@ U 1 1 59277303
 P 1650 8050
 F 0 "C3" H 1660 8120 50  0000 L CNN
 F 1 "1uF" H 1660 7970 50  0000 L CNN
-F 2 "Capacitors_SMD:C_1206_HandSoldering" H 1650 8050 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1650 8050 50  0001 C CNN
 F 3 "" H 1650 8050 50  0001 C CNN
 	1    1650 8050
 	1    0    0    -1  
@@ -627,7 +627,7 @@ U 1 1 59277312
 P 3050 8000
 F 0 "C9" H 3060 8070 50  0000 L CNN
 F 1 "1uF" H 3060 7920 50  0000 L CNN
-F 2 "Capacitors_SMD:C_1206_HandSoldering" H 3050 8000 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3050 8000 50  0001 C CNN
 F 3 "" H 3050 8000 50  0001 C CNN
 	1    3050 8000
 	1    0    0    -1  
@@ -1338,7 +1338,7 @@ U 1 1 5934B0D3
 P 14450 800
 F 0 "C18" H 14542 846 50  0000 L CNN
 F 1 "10uF" H 14542 755 50  0000 L CNN
-F 2 "Capacitors_SMD:C_1206_HandSoldering" H 14450 800 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 14450 800 50  0001 C CNN
 F 3 "" H 14450 800 50  0001 C CNN
 	1    14450 800 
 	1    0    0    -1  
@@ -1456,7 +1456,7 @@ U 1 1 59AC3A9F
 P 1450 9300
 F 0 "C1" H 1460 9370 50  0000 L CNN
 F 1 "10uF" H 1460 9220 50  0000 L CNN
-F 2 "Capacitors_SMD:C_1206_HandSoldering" H 1450 9300 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1450 9300 50  0001 C CNN
 F 3 "" H 1450 9300 50  0001 C CNN
 	1    1450 9300
 	1    0    0    -1  
@@ -1467,7 +1467,7 @@ U 1 1 59AC3B6E
 P 1700 9650
 F 0 "C4" H 1710 9720 50  0000 L CNN
 F 1 "1uF" H 1710 9570 50  0000 L CNN
-F 2 "Capacitors_SMD:C_1206_HandSoldering" H 1700 9650 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1700 9650 50  0001 C CNN
 F 3 "" H 1700 9650 50  0001 C CNN
 	1    1700 9650
 	1    0    0    -1  
@@ -1588,7 +1588,7 @@ U 1 1 59AC6A09
 P 3550 9350
 F 0 "C12" H 3560 9420 50  0000 L CNN
 F 1 "10uF" H 3560 9270 50  0000 L CNN
-F 2 "Capacitors_SMD:C_1206_HandSoldering" H 3550 9350 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3550 9350 50  0001 C CNN
 F 3 "" H 3550 9350 50  0001 C CNN
 	1    3550 9350
 	1    0    0    -1  
@@ -2172,17 +2172,6 @@ Wire Wire Line
 Wire Wire Line
 	3350 5650 3350 5550
 $Comp
-L CP1_Small C19
-U 1 1 59AD629D
-P 14900 800
-F 0 "C19" H 14910 870 50  0000 L CNN
-F 1 "120uF" H 15000 750 50  0000 L CNN
-F 2 "Capacitors_SMD:CP_Elec_6.3x5.8" H 14900 800 50  0001 C CNN
-F 3 "" H 14900 800 50  0001 C CNN
-	1    14900 800 
-	1    0    0    -1  
-$EndComp
-$Comp
 L C_Small C17
 U 1 1 59AD6A7A
 P 14050 800
@@ -2193,11 +2182,7 @@ F 3 "" H 14050 800 50  0001 C CNN
 	1    14050 800 
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	13650 700  14900 700 
 Connection ~ 14450 700 
-Wire Wire Line
-	13650 900  14900 900 
 Connection ~ 14450 900 
 $Comp
 L C_Small C16
@@ -2213,7 +2198,7 @@ $EndComp
 Connection ~ 14050 700 
 Connection ~ 14050 900 
 Text Notes 14000 600  0    60   ~ 0
-Filtering
+Micro SD Card Decoupling
 $Comp
 L C_Small C13
 U 1 1 59ADC311
@@ -2241,4 +2226,8 @@ Wire Wire Line
 Wire Wire Line
 	3900 9250 3900 9050
 Connection ~ 3900 9050
+Wire Wire Line
+	13650 700  14450 700 
+Wire Wire Line
+	14450 900  13650 900 
 $EndSCHEMATC
