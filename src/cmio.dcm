@@ -5,8 +5,68 @@ F http://docs-europe.electrocomponents.com/webdocs/104c/0900766b8104c621.pdf
 $ENDCMP
 #
 $CMP ISL91107IR
-D High Efficiency Buck-Boost Regulator with 4.1A Switches 
+D High Efficiency Buck-Boost Regulator with 4.1A Switches
 F http://docs-europe.electrocomponents.com/webdocs/150c/0900766b8150c40b.pdf
+$ENDCMP
+#
+$CMP LD3985M122R
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 1.22V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf
+$ENDCMP
+#
+$CMP LD3985M18R
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 1.8V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf
+$ENDCMP
+#
+$CMP LD3985M25R
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 2.5V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf
+$ENDCMP
+#
+$CMP LD3985M26R
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 2.6V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf
+$ENDCMP
+#
+$CMP LD3985M27R
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 2.7V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf
+$ENDCMP
+#
+$CMP LD3985M28R
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 2.8V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf
+$ENDCMP
+#
+$CMP LD3985M29R
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 2.8V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf
+$ENDCMP
+#
+$CMP LD3985M30R
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 3.0V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf
+$ENDCMP
+#
+$CMP LD3985M33R
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf
+$ENDCMP
+#
+$CMP LD3985M47R
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 4.7V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf
 $ENDCMP
 #
 $CMP Micro_SD_Card_TFP09_2_12B
