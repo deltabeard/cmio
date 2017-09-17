@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP3417B
+D 1.2A, 1.4MHz High Efficiency Synchronous DC-DC Buck Converter
+F http://docs-europe.electrocomponents.com/webdocs/1332/0900766b81332189.pdf
+$ENDCMP
+#
 $CMP AP6015
 F http://docs-europe.electrocomponents.com/webdocs/104c/0900766b8104c621.pdf
 $ENDCMP
@@ -73,6 +78,11 @@ $CMP Micro_SD_Card_TFP09_2_12B
 D Micro SD Card Socket - TFP09-2-12B
 K connector SD microsd
 F http://images.100y.com.tw/pdf_file/10-TFP09-2-12B.pdf
+$ENDCMP
+#
+$CMP SP6203
+D Low Noise, 300mA and 500mA CMOS LDO Regulators
+F http://docs-europe.electrocomponents.com/webdocs/0d9e/0900766b80d9edfe.pdf
 $ENDCMP
 #
 #End Doc Library
