@@ -1,4 +1,4 @@
-(module CM3_Socket_SODIMM_DDR1-2_TE_1612618_NoHole locked (layer F.Cu) (tedit 59C27878)
+(module CM3_Socket_SODIMM_DDR1-2_TE_1612618_NoHole_NoEndSilkS (layer F.Cu) (tedit 59C278DD)
   (descr "DDR 1&2 SODIMM Memory Socket - TE P/N 1612618")
   (tags "DDR RAM SODIMM")
   (attr smd)
@@ -35,7 +35,6 @@
   (fp_line (start 36 -14) (end 36 -11.8) (layer F.SilkS) (width 0.15))
   (fp_line (start 36 6) (end 36 -4.1) (layer F.SilkS) (width 0.15))
   (fp_line (start -50 -20) (end -50 -20) (layer F.SilkS) (width 0.15))
-  (fp_line (start -34 -31) (end 33.6 -31) (layer F.SilkS) (width 0.25))
   (fp_line (start -34 -31) (end -34 -31) (layer F.SilkS) (width 0.15))
   (fp_line (start 30 -42) (end 30 -42) (layer F.SilkS) (width 0.15))
   (fp_line (start -3 -27) (end 11 -27) (layer F.Fab) (width 0.15))
