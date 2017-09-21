@@ -1,4 +1,4 @@
-update=Thu 25 May 2017 10:14:59 BST
+update=Wed 20 Sep 2017 19:03:51 BST
 version=1
 last_client=kicad
 [pcbnew]
@@ -121,3 +121,13 @@ LibName89=Worldsemi
 LibName90=Xicor
 LibName91=zetex
 LibName92=Zilog
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
