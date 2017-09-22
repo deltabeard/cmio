@@ -96,7 +96,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Custom Compute Module IO Board"
-Date "2017-09-19"
+Date "2017-09-22"
 Rev ""
 Comp "Mahyar Koshkouei"
 Comment1 "GPL 3"
@@ -1549,23 +1549,23 @@ F 3 "" H 4450 5400 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L TEST TP?
+L TEST TP2
 U 1 1 59C4E52B
 P 1700 3750
-F 0 "TP?" H 1700 4050 50  0000 C BNN
+F 0 "TP2" H 1700 4050 50  0000 C BNN
 F 1 "TEST" H 1700 4000 50  0000 C CNN
-F 2 "" H 1700 3750 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-SMD-Pad_Small" H 1700 3750 50  0001 C CNN
 F 3 "" H 1700 3750 50  0001 C CNN
 	1    1700 3750
 	1    0    0    -1  
 $EndComp
 $Comp
-L TEST TP?
+L TEST TP1
 U 1 1 59C4E7A6
 P 1250 4500
-F 0 "TP?" H 1250 4800 50  0000 C BNN
+F 0 "TP1" H 1250 4800 50  0000 C BNN
 F 1 "TEST" H 1250 4750 50  0000 C CNN
-F 2 "" H 1250 4500 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-SMD-Pad_Small" H 1250 4500 50  0001 C CNN
 F 3 "" H 1250 4500 50  0001 C CNN
 	1    1250 4500
 	0    1    1    0   
