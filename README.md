@@ -26,7 +26,8 @@ Features:
 * Bank 0 and Bank 1 GPIO pins available.
 * USB On-The-Go (OTG) support.
 * Micro USB power input.
-* Fully open source (KiCad files, etc. all available) under GNU GPL3 License.
+* Fully open source (KiCad files, etc. all available) under TAPR Open Hardware
+  License.
 * A most excellent **reset button**!
 
 Compatibility with the Raspberry Pi GPIO header was removed after v0.2 to

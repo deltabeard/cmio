@@ -3,7 +3,7 @@
   (general
     (links 224)
     (no_connects 10)
-    (area 104.089999 79.959999 182.930001 109.270001)
+    (area 90.702001 54.244999 193.785001 122.080001)
     (thickness 1.6)
     (drawings 17)
     (tracks 640)
@@ -2355,7 +2355,7 @@
   (gr_text v0.4 (at 181.61 99.06 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "Compute Module IO\nGNU GPL 3\nMahyar Koshkouei\ngit.io/v5z7b" (at 159.512 85.344) (layer F.SilkS)
+  (gr_text "Compute Module IO\nTAPR Open Hardware License\nMahyar Koshkouei\ngit.io/v5z7b" (at 159.512 85.344) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.25)) (justify right))
   )
   (gr_text "Raspberry Pi Compute Module (1/3/3L)" (at 143.51 82.55) (layer B.SilkS)
