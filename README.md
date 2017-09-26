@@ -15,6 +15,9 @@ version. However, whilst the official version costs £115, this design aims to
 produce a Compute Module IO board that can be manufactured (PCB fabrication,
 BOM, et al) under £30.
 
+See BOM.md for the bill of materials, and for the costs required to manufacture
+the latest release of this board.
+
 This allows hobbyists an opportunity to introduce themselves to the Raspberry
 Pi Compute Module without breaking the bank.
 
