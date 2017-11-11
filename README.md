@@ -38,3 +38,12 @@ simplify the design and reduce cost of production.
 
 \* Prices correct at the time of writing, are in Pound Sterling and include
 VAT.
+
+## Using this Repository
+
+Note that only tagged releases should be used for manufacture (see the
+[releases](https://github.com/deltabeard/cmio/releases) page). Other commits
+should be deemed as work in progress.
+
+Releases marked as "Pre-release" are not fully tested, and should not be used.
+To this date, *no release version is fully working unfortunately*.
