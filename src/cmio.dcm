@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP2138
+D ULTRA LOW QUIESCENT CURRENT CMOS LDO
+F http://docs-europe.electrocomponents.com/webdocs/14b9/0900766b814b90a8.pdf
+$ENDCMP
+#
 $CMP AP3417B
 D 1.2A, 1.4MHz High Efficiency Synchronous DC-DC Buck Converter
 F http://docs-europe.electrocomponents.com/webdocs/1332/0900766b81332189.pdf
@@ -72,6 +77,12 @@ $CMP LD3985M47R
 D 150 mA Low Dropout Voltage Regulator, Fixed Output 4.7V, SOT-23-5
 K 150mA LDO Regulator Fixed Positive
 F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf
+$ENDCMP
+#
+$CMP Micro_SD_Card_Molex_47219-2001
+D Micro SD Card Socket - Molex 47219-2001
+K connector SD microsd
+F http://uk.rs-online.com/web/p/memory-sim-card-connectors/8006845/
 $ENDCMP
 #
 $CMP Micro_SD_Card_TFP09_2_12B
