@@ -100,7 +100,7 @@ Date "2017-11-11"
 Rev ""
 Comp "Mahyar Koshkouei"
 Comment1 "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)"
-Comment2 ""
+Comment2 "https://github.com/deltabeard/cmio"
 Comment3 ""
 Comment4 ""
 $EndDescr
