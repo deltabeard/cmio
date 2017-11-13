@@ -85,6 +85,12 @@ K connector SD microsd
 F http://uk.rs-online.com/web/p/memory-sim-card-connectors/8006845/
 $ENDCMP
 #
+$CMP Micro_SD_Card_Molex_47309-2651
+D Micro SD Card Socket - Molex 47219-2001
+K connector SD microsd
+F http://uk.rs-online.com/web/p/memory-sim-card-connectors/8006845/
+$ENDCMP
+#
 $CMP Micro_SD_Card_TFP09_2_12B
 D Micro SD Card Socket - TFP09-2-12B
 K connector SD microsd
