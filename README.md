@@ -24,6 +24,7 @@ Pi Compute Module without breaking the bank.
 Features:
 * Low cost design.
 * Only low cost components required.
+* Simple to solder with a heat gun.
 * Micro SD card slot.
 * Composite video output (No HDMI).
 * Bank 0 and Bank 1 GPIO pins available.
@@ -31,7 +32,7 @@ Features:
 * Micro USB power input.
 * Fully open source (KiCad files, etc. all available) under TAPR Open Hardware
   License.
-* A most excellent **reset button**!
+* A most excellent reset button!
 
 Compatibility with the Raspberry Pi GPIO header was removed after v0.2 to
 simplify the design and reduce cost of production.
