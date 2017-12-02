@@ -32,7 +32,7 @@ Features:
 * Micro USB power input.
 * Fully open source (KiCad files, etc. all available) under TAPR Open Hardware
   License.
-* A most excellent reset button!
+* ~~A most excellent reset button!~~ [Removed in v0.5](https://github.com/deltabeard/cmio/commit/58f6f0d9b9edc8a3ccf51f042ef9ee13f27d9331)
 
 Compatibility with the Raspberry Pi GPIO header was removed after v0.2 to
 simplify the design and reduce cost of production.
@@ -48,3 +48,7 @@ should be deemed as work in progress.
 
 Releases marked as "Pre-release" are not fully tested, and should not be used.
 To this date, *no release version is fully working unfortunately*.
+
+## Roadmap
+
+Version v1.0 will denote a fully working board.
